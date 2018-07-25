@@ -9,7 +9,8 @@ I created an Amazon-like storefront with MySQL. The app will take in orders from
 
 
 ```
-[ScreengrabBamazon](images/screengrab.png)
+![alt text](images/screengrab.png "screengrab")
+
 
 ```
 
